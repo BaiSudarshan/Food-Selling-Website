@@ -61,4 +61,4 @@ Click on Go Live from the status bar to turn the server on/off or Right-click on
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact me at [baisudarshankumar@gmail.com].
+If you have any questions, suggestions, or feedback, please feel free to contact me at baisudarshankumar@gmail.com .
