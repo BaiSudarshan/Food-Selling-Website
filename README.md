@@ -3,6 +3,7 @@
 Welcome to the Food Selling Website project! 
 
 ![Screenshot](screenshot/Landingss.png)
+![Screenshot](screenshot/Section2ss.png)
 
 ## Table of Contents
 
@@ -16,7 +17,7 @@ Welcome to the Food Selling Website project!
 
 ## Introduction
 
-This is a personal learning project aims to create a user-friendly and visually appealing food selling website using HTML, CSS, and JavaScript. It consists of several sections, including a cool landing page with a slideshow, a cart section, a gallery with interactive dish details, and a footer with input fields.
+This is a personal learning project aims to create a user-friendly and visually appealing food selling website using HTML, CSS, and JavaScript. It consists of several sections, including a cool landing page with a slideshow, a card section, a gallery with interactive dish details, and a footer with input fields.
 
 
 ## Features
@@ -60,4 +61,4 @@ Click on Go Live from the status bar to turn the server on/off or Right-click on
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact us at [baisudarshankumar@gmail.com].
+If you have any questions, suggestions, or feedback, please feel free to contact me at [baisudarshankumar@gmail.com].
