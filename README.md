@@ -4,6 +4,7 @@ Welcome to the Food Selling Website project!
 
 ![Screenshot](screenshot/Landingss.png)
 ![Screenshot](screenshot/Section2ss.png)
+![Screenshot](screenshot/gallery.png)
 
 ## Table of Contents
 
